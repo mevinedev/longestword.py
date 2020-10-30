@@ -7,5 +7,5 @@ for i in words:
         longest = wordlength
         currentword = i
 
-print("longest word is: ",currentword)
+print("the longest word is: ",currentword)
 print("length: ",wordlength)
